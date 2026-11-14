@@ -12,6 +12,7 @@ Built by Kritika Tyagi as the Phase 5 prototype for the NTU Agentic AI Leadershi
 |---|---|
 | `Kanvas_Launch_Studio_Kritika_v1.3.json` | The full n8n workflow (28 nodes), ready to import |
 | `README.md` | This guide |
+| `docs/Kanvas_Launch_Studio_PRD_Kritika_Tyagi.pdf` | Product requirements document: problem, goals, features, key logic, launch plan, investment ([PDF](docs/Kanvas_Launch_Studio_PRD_Kritika_Tyagi.pdf) · [Word](docs/Kanvas_Launch_Studio_PRD_Kritika_Tyagi.docx)) |
 
 ## How it works
 
